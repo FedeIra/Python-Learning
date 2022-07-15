@@ -1,0 +1,9 @@
+setup.py
+PaqueteEjemplo/__init__py.py
+PaqueteEjemplo/calculos_generales.py
+PaqueteEjemplo/subPaqueteEjemplo/__init__py.py
+PaqueteEjemplo/subPaqueteEjemplo/operaciones_basicas.py
+subPaqueteEjemplo.egg-info/PKG-INFO
+subPaqueteEjemplo.egg-info/SOURCES.txt
+subPaqueteEjemplo.egg-info/dependency_links.txt
+subPaqueteEjemplo.egg-info/top_level.txt
